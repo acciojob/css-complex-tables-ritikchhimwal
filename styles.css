@@ -1,9 +1,10 @@
 /*  your css code here. If applicable */
+
  table {
             width: 100%;
             border-collapse: collapse;
 	        border: 1px solid orange;
-            border-width: 0 0 1px 1px;
+            border-width: 1px 1px 0 0;
         }
         th, td {
              border: 1px solid orange;
@@ -16,5 +17,5 @@
             color: white;
         }
         .sub-total-row .sub-total-text {
-            text-align: right;
+            text-align: center;
         }
